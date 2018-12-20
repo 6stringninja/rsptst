@@ -1,0 +1,73 @@
+{
+    "id": "ce71960da5bb8c04",
+    "worker_id": "orangepizero",
+    "version": "2.8.3",
+    "kind": "cpu",
+    "ua": "XMRig/2.8.3 (Linux i686) libuv/1.9.1 gcc/6.3.0",
+    "cpu": {
+        "brand": "Unknown",
+        "aes": false,
+        "x64": false,
+        "sockets": 1
+    },
+    "algo": "cryptonight-lite",
+    "hugepages": false,
+    "donate_level": 5,
+    "hashrate": {
+        "total": [
+            11.94,
+            11.82,
+            0.0
+        ],
+        "highest": 12.17,
+        "threads": [
+            [
+                2.93,
+                3.0,
+                0.0
+            ],
+            [
+                3.04,
+                2.99,
+                0.0
+            ],
+            [
+                3.08,
+                2.95,
+                0.0
+            ],
+            [
+                2.88,
+                2.86,
+                0.0
+            ]
+        ]
+    },
+    "results": {
+        "diff_current": 1144,
+        "shares_good": 3,
+        "shares_total": 3,
+        "avg_time": 34,
+        "hashes_total": 2287,
+        "best": [
+            284821,
+            1844,
+            661,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "error_log": []
+    },
+    "connection": {
+        "pool": "eu.turtlepool.space:3333",
+        "uptime": 104,
+        "ping": 146,
+        "failures": 0,
+        "error_log": []
+    }
+}
